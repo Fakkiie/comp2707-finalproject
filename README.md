@@ -1,5 +1,5 @@
 # comp2707-finalproject
-Final project for my COMP 2707 class in my 2nd year.
+Final project for my COMP 2707 class.
 
 In this project we focused on the full stack implementation, where we would use PHP to connect to our mySQL data base that handeled user input.
 Java script was also used to give alot of functionality to our webpage such as making a search bar to search through tutorials or 
